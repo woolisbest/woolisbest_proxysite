@@ -1,0 +1,2 @@
+#これは僕のプロキシ集です。
+html.cafeが使えない人のためにrenderにdeployできるようにgithubでリポジトリを作りました。
